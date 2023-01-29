@@ -92,14 +92,17 @@ main {
 .benefit-lead h3 {
     margin-bottom: 10px;
     text-align: center;
+    font-size: 28px;
 }
 .benefit-brand h3 {
     margin-bottom: 10px;
     text-align: center;
+    font-size: 28px;
 }
 .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
+    font-size: 28px;cs
 }
 .benefit-lead img {
     display: block;
@@ -125,6 +128,7 @@ main {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: green;
     color: #ffffff;
+    
 }
 .online-reputation-management {
     margin-bottom: 20px;
@@ -165,12 +169,13 @@ main {
 }
 
 /*-----Footer-----*/
-.footer {
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-.footer h2 {
+footer h2 {
     font-size: 20px;
+
 }
